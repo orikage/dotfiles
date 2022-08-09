@@ -1,9 +1,8 @@
 winget install 7zip
-winget install -i git
 winget install gnupg
 winget install gpg4win
 winget install powertoys
-winget install MRidgers.Clink
+winget install Clink
 winget install gow
 winget install googlechrome
 winget install -i vscode
@@ -17,3 +16,20 @@ winget install obs
 winget install screentogif
 winget install crystaldiskinfo
 winget install coretemp
+winget install DeepL.DeepL
+winget install nomacs.nomacs
+winget install Mozilla.Thunderbird
+winget install MehediHassan.Tweeten
+winget install LINE.LINE
+winget install Peppy.Osu!
+winget install Microsoft.WindowsTerminal
+winget install Amazon.Music
+winget install Google.ChromeRemoteDesktop
+winget install Kitware.CMake
+winget install ALCPU.CoreTemp
+winget install -e --id flux.flux
+winget install KiCad.KiCad
+winget install Mattermost.MattermostDesktop
+winget install Kuro.Mery
+winget install TeamViewer.TeamViewer
+winget install File-New-Project.EarTrumpet

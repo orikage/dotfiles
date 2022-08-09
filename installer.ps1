@@ -4,3 +4,4 @@ Add-AppxPackage -Path winget.msixbundle
 rm winget.msixbundle
 
 winget install Git.git
+$env:PATH += ';C:\Program Files\Git\bin'
